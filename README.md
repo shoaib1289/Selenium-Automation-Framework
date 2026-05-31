@@ -1,4 +1,4 @@
-\# Selenium Automation Framework
+# Selenium Automation Framework
 
 
 
@@ -6,7 +6,7 @@ A professional test automation framework built with Java, Selenium WebDriver, Te
 
 
 
-\## Tech Stack
+## Tech Stack
 
 \- Java 17
 
@@ -22,7 +22,7 @@ A professional test automation framework built with Java, Selenium WebDriver, Te
 
 
 
-\## Framework Architecture
+## Framework Architecture
 
 \- \*\*BasePage\*\* — shared driver, wait, and helper methods
 
@@ -38,7 +38,7 @@ A professional test automation framework built with Java, Selenium WebDriver, Te
 
 
 
-\## Test Coverage
+## Test Coverage
 
 \- Login — valid/invalid credentials with DataProvider (3 scenarios)
 
@@ -50,7 +50,7 @@ A professional test automation framework built with Java, Selenium WebDriver, Te
 
 
 
-\## How to Run
+## How to Run
 
 1\. Clone the repository
 
@@ -60,7 +60,7 @@ A professional test automation framework built with Java, Selenium WebDriver, Te
 
 
 
-\## Reports
+## Reports
 
 Test reports generated in `reports/TestReport.html` after each run.
 
