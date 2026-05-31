@@ -1,0 +1,13 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Maven compiled output
+target/
+
+# Test reports (generated automatically)
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
